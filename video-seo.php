@@ -3,7 +3,7 @@
  * Plugin Name:       Video SEO
  * Plugin URI:        https://www.contentpowered.com/wordpress-plugins/video-seo/
  * Description:       Gets your videos into Google's video results. Finds every YouTube, Vimeo and self-hosted video, adds VideoObject schema with key moments, and builds a video sitemap, with no setup per post.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.8
  * Requires PHP:      7.2
  * Author:            Content Powered

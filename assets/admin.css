@@ -178,6 +178,8 @@ body.vseo-page #wpcontent { padding-left: 0; }
 .vseo-wrap .description,
 .vseo-muted { color: var(--vseo-muted); }
 
+.vseo-wrap .description code { white-space: nowrap; }
+
 .vseo-wrap .button svg {
 	vertical-align: -3px;
 	margin-right: 4px;
